@@ -1,0 +1,30 @@
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalculator.resources
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalculator.resources
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.frmScores.resources
+C:\Extra Exercises\Chapter 07\ScoreCalculator\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Resources.resources
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.csprojAssemblyReference.cache
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.frmScores.resources
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.Resources.resources
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalculator.resources
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\Nava\Documents\Projects\ScoreCalculator\Project.ScoreCalculator\obj\Debug\ScoreCalculator.pdb
